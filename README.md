@@ -4,4 +4,4 @@
  Edit name and Emails is available<br>
  Update Password<br>
  Delete Account
-<h3>Note : </h3> DataBase name is laravel-Breeze
+<h3>Note : </h3> DataBase name is laravel-breeze
